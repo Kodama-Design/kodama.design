@@ -25,7 +25,8 @@
         "symfony/validator": "^4.0",
         "symfony/web-link": "^4.0",
         "symfony/webpack-encore-pack": "*",
-        "symfony/yaml": "^4.0"
+        "symfony/yaml": "^4.0",
+        "vich/uploader-bundle": "^1.8"
     },
     "require-dev": {
         "symfony/browser-kit": "^4.0",
@@ -77,7 +78,7 @@
     "extra": {
         "symfony": {
             "id": "01CASPB56YV8C6ABZ8RRGX3TP5",
-            "allow-contrib": false
+            "allow-contrib": true
         }
     }
 }
