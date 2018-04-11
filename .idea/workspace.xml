@@ -14,12 +14,13 @@
       <file leaf-file-name="composer.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="33" column="39" lean-forward="false" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+            <state relative-caret-position="515">
+              <caret line="32" column="39" lean-forward="false" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
               <folding>
-                <marker date="1523428201931" expanded="true" signature="0:2161" ph="{&quot;type&quot;: &quot;project&quot;...}" />
-                <marker date="1523428201931" expanded="true" signature="2106:2153" ph="{&quot;id&quot;: &quot;01CASNSJ7S25QGP692ADDE1MEZ&quot;...}" />
-                <marker date="1523428201931" expanded="true" signature="2106:2159" ph="{...}" />
+                <marker date="1523428395000" expanded="true" signature="1899:2042" ph="{...}" />
+                <marker date="1523428395000" expanded="true" signature="1929:1968" ph="[...]" />
+                <marker date="1523428395000" expanded="true" signature="1997:2036" ph="[...]" />
+                <marker date="1523428395000" expanded="true" signature="2060:2098" ph="{&quot;symfony/symfony&quot;: &quot;*&quot;...}" />
               </folding>
             </state>
           </provider>
@@ -107,12 +108,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523428103736</updated>
-      <workItem from="1523428104897" duration="199000" />
+      <workItem from="1523428104897" duration="404000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="199000" />
+    <option name="totallyTimeSpent" value="404000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3834" y="13" width="1933" height="1053" extended-state="7" />
@@ -151,12 +152,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="33" column="39" lean-forward="false" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+        <state relative-caret-position="515">
+          <caret line="32" column="39" lean-forward="false" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
           <folding>
-            <marker date="1523428201931" expanded="true" signature="0:2161" ph="{&quot;type&quot;: &quot;project&quot;...}" />
-            <marker date="1523428201931" expanded="true" signature="2106:2153" ph="{&quot;id&quot;: &quot;01CASNSJ7S25QGP692ADDE1MEZ&quot;...}" />
-            <marker date="1523428201931" expanded="true" signature="2106:2159" ph="{...}" />
+            <marker date="1523428395000" expanded="true" signature="1899:2042" ph="{...}" />
+            <marker date="1523428395000" expanded="true" signature="1929:1968" ph="[...]" />
+            <marker date="1523428395000" expanded="true" signature="1997:2036" ph="[...]" />
+            <marker date="1523428395000" expanded="true" signature="2060:2098" ph="{&quot;symfony/symfony&quot;: &quot;*&quot;...}" />
           </folding>
         </state>
       </provider>
